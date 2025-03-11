@@ -1,4 +1,4 @@
-안녕하세요. 한남대학교 빅데이터 응용학과 3학년 김승종 입니다.
+안녕하세요. 김승종 입니다.
 <!--
 **kim-seung-jong/kim-seung-jong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
